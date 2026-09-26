@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Secrets — храните настройки SMTP только локально
+.env
+backend/.env
+
+# Generated
+backend/test-mails/
+backend/validation-report.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
