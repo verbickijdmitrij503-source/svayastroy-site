@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Лидерное бурение">
+  <rect x="8" y="8" width="48" height="48" rx="16" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.16)"/>
+  <path d="M32 18v28 M26 24h12 M26 30h12 M26 36h12" fill="none" stroke="rgba(233,238,252,0.9)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 46h28" stroke="#ffb020" stroke-width="4" stroke-linecap="round"/>
+</svg>

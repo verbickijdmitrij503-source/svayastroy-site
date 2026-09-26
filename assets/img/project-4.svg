@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Иллюстрация объекта 4">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#20262f"/><stop offset="1" stop-color="#8791a0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" fill="none" stroke="rgba(255,255,255,.05)"/></pattern>
+    <pattern id="hz" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="20" height="40" fill="#ffcf33"/><rect x="20" width="20" height="40" fill="#0a0c0f"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/><rect width="1600" height="900" fill="url(#grid)"/>
+  <circle cx="710" cy="170" r="60" fill="#ffffff" opacity=".55"/>
+  <path d="M-20 640 L14 520 L48 640Z" fill="#9aa3b0" opacity=".85"/><path d="M92 640 L126 483 L160 640Z" fill="#9aa3b0" opacity=".85"/><path d="M204 640 L238 446 L272 640Z" fill="#9aa3b0" opacity=".85"/><path d="M265 640 L299 499 L333 640Z" fill="#9aa3b0" opacity=".85"/><path d="M377 640 L411 462 L445 640Z" fill="#9aa3b0" opacity=".85"/><path d="M489 640 L523 515 L557 640Z" fill="#9aa3b0" opacity=".85"/><path d="M550 640 L584 478 L618 640Z" fill="#9aa3b0" opacity=".85"/><path d="M662 640 L696 441 L730 640Z" fill="#9aa3b0" opacity=".85"/><path d="M774 640 L808 494 L842 640Z" fill="#9aa3b0" opacity=".85"/><path d="M835 640 L869 457 L903 640Z" fill="#9aa3b0" opacity=".85"/><path d="M947 640 L981 510 L1015 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1059 640 L1093 473 L1127 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1120 640 L1154 436 L1188 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1232 640 L1266 489 L1300 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1344 640 L1378 452 L1412 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1405 640 L1439 505 L1473 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1517 640 L1551 468 L1585 640Z" fill="#9aa3b0" opacity=".85"/><path d="M1629 640 L1663 431 L1697 640Z" fill="#9aa3b0" opacity=".85"/>
+  <rect y="640" width="1600" height="260" fill="#d9dee6"/>
+  <path d="M0 640 H1600" stroke="rgba(255,255,255,.12)" stroke-width="3"/>
+  <rect x="120" y="690" width="38" height="44" fill="#b8bec8"/><rect x="120" y="690" width="38" height="8" fill="#ffffff"/><rect x="178.33333333333334" y="750" width="38" height="44" fill="#b8bec8"/><rect x="178.33333333333334" y="750" width="38" height="8" fill="#ffffff"/><rect x="236.66666666666669" y="690" width="38" height="44" fill="#b8bec8"/><rect x="236.66666666666669" y="690" width="38" height="8" fill="#ffffff"/><rect x="295" y="750" width="38" height="44" fill="#b8bec8"/><rect x="295" y="750" width="38" height="8" fill="#ffffff"/><rect x="353.33333333333337" y="690" width="38" height="44" fill="#b8bec8"/><rect x="353.33333333333337" y="690" width="38" height="8" fill="#ffffff"/><rect x="411.6666666666667" y="750" width="38" height="44" fill="#b8bec8"/><rect x="411.6666666666667" y="750" width="38" height="8" fill="#ffffff"/><rect x="470" y="690" width="38" height="44" fill="#b8bec8"/><rect x="470" y="690" width="38" height="8" fill="#ffffff"/><rect x="528.3333333333334" y="750" width="38" height="44" fill="#b8bec8"/><rect x="528.3333333333334" y="750" width="38" height="8" fill="#ffffff"/><rect x="586.6666666666667" y="690" width="38" height="44" fill="#b8bec8"/><rect x="586.6666666666667" y="690" width="38" height="8" fill="#ffffff"/><rect x="645" y="750" width="38" height="44" fill="#b8bec8"/><rect x="645" y="750" width="38" height="8" fill="#ffffff"/><rect x="703.3333333333334" y="690" width="38" height="44" fill="#b8bec8"/><rect x="703.3333333333334" y="690" width="38" height="8" fill="#ffffff"/><rect x="761.6666666666667" y="750" width="38" height="44" fill="#b8bec8"/><rect x="761.6666666666667" y="750" width="38" height="8" fill="#ffffff"/>
+  
+    <g transform="translate(900 250)">
+      <rect x="120" y="-40" width="34" height="560" fill="#ffcf33"/><rect x="112" y="-52" width="50" height="16" fill="#ffcf33"/>
+      <rect x="126" y="60" width="22" height="130" fill="#6b7482"/><rect x="132" y="190" width="10" height="250" fill="#aab2bf"/>
+      <path d="M40 470 L130 120" stroke="#1d232c" stroke-width="18"/><path d="M52 470 L134 140" stroke="#39414d" stroke-width="3"/>
+      <rect x="-60" y="420" width="230" height="80" rx="8" fill="#ffcf33"/><rect x="100" y="430" width="50" height="40" fill="#5b93e0" opacity=".7"/>
+      <rect x="-80" y="500" width="270" height="40" rx="20" fill="#1d232c"/><g fill="#39414d"><circle cx="-58" cy="520" r="11"/><circle cx="-26" cy="520" r="11"/><circle cx="6" cy="520" r="11"/><circle cx="38" cy="520" r="11"/><circle cx="70" cy="520" r="11"/><circle cx="102" cy="520" r="11"/><circle cx="134" cy="520" r="11"/><circle cx="166" cy="520" r="11"/></g>
+    </g>
+  <rect x="0" y="872" width="1600" height="28" fill="url(#hz)" opacity=".9"/>
+  <g font-family="Oswald, Arial, sans-serif" fill="#e9eefc">
+    <rect x="48" y="44" width="330" height="54" rx="8" fill="rgba(10,12,15,.72)" stroke="rgba(255,255,255,.18)"/>
+    <text x="70" y="80" font-size="26" letter-spacing="3">ОБЪЕКТ № 04 · ИЛЛЮСТРАЦИЯ</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="Иллюстрация техники">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="rgba(78,161,255,0.25)"/>
+      <stop offset="1" stop-color="rgba(255,176,32,0.18)"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="564" height="324" rx="26" fill="url(#bg)" stroke="rgba(255,255,255,0.18)"/>
+  <path d="M95 275h410" stroke="rgba(233,238,252,0.85)" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+  <path d="M170 275l35-75h165l30 75" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M280 95h40v160h-40z" fill="rgba(78,161,255,0.20)" stroke="rgba(78,161,255,0.55)" stroke-width="6"/>
+  <path d="M265 95h70" stroke="rgba(233,238,252,0.85)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="225" cy="285" r="26" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)" stroke-width="6"/>
+  <circle cx="385" cy="285" r="26" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)" stroke-width="6"/>
+  <path d="M110 120h180" stroke="rgba(255,176,32,0.85)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M110 150h140" stroke="rgba(233,238,252,0.75)" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+  <path d="M110 180h160" stroke="rgba(233,238,252,0.55)" stroke-width="7" stroke-linecap="round" opacity="0.85"/>
+</svg>

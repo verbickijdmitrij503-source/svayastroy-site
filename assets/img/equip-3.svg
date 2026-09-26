@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Компактная установка">
+  <rect x="18" y="18" width="604" height="324" rx="26" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.16)"/>
+  <path d="M90 265h460" stroke="rgba(233,238,252,0.75)" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+  <path d="M190 265l40-90h200l40 90" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M308 90h40v175h-40z" fill="rgba(78,161,255,0.15)" stroke="rgba(78,161,255,0.45)" stroke-width="6"/>
+  <text x="70" y="90" font-family="system-ui,Segoe UI,Roboto" font-size="26" fill="rgba(233,238,252,0.85)">Компактная установка</text>
+</svg>
